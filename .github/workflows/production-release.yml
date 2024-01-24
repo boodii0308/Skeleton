@@ -9,9 +9,11 @@ on:
 jobs:
   deploy-react-to-gh-pages:
     runs-on: ubuntu-latest
-     strategy:
+    
+    strategy:
       matrix:
         node-version: [21.x]
+    
     env:
       EXAMPLE: example # environment variable
 
