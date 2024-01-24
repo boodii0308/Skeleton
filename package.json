@@ -1,7 +1,8 @@
 {
-  "name": "advance-level-folder-structure",
+  "name": "Kai's Bay",
+  "homepage": "https://www.quantumkraken.com/"
   "private": true,
-  "version": "0.0.0",
+  "version": "0.1.0",
   "type": "module",
   "scripts": {
     "start": "vite",
