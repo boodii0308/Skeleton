@@ -3,7 +3,7 @@ import styles from './button.module.css'
 
 const index = () => {
   return (
-    <button>
+    <button id ='button'>
       Button
     </button>
   )
